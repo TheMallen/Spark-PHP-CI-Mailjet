@@ -1,0 +1,8 @@
+
+name: mailjet
+
+version: 0.0.1
+
+compatibility: 2.0.2
+
+tags: ["curl","email","mailjet"]
